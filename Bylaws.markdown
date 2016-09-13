@@ -27,7 +27,7 @@
 
     1. **Secretary** - Prepares meeting minutes and all non-financial records of the Brazen Dropout.
 
-1. Elections - Officers are elected annually by a majority of the members present at a scheduled meeting and serve a July 1 - June 30. There is no limit to the number of terms an officer may serve. Multiple members may share the responsibilities of any office of the Executive committee when approved by a majority of the membership present at a scheduled membership meeting,
+1. Elections - Officers are elected annually by a majority of the members present at a scheduled meeting and serve a July 1 - June 30 term. There is no limit to the number of terms an officer may serve. Multiple members may share the responsibilities of any office of the Executive committee when approved by a majority of the membership present at a scheduled membership meeting,
 1. Vacated offices - If an officer is removed, resigns or is otherwise unable to complete his term, a membership meeting must be scheduled by the remainder of the Executive committee for the purposes of filling the vacated office(s). In the interim, the remaining members of the Executive committee assume the responsibilities of the vacated office.
 1. Removal from office - Any member of the Executive committee may be removed from office, for any reason, by a two-thirds majority of the membership present at a scheduled membership meeting.
 
